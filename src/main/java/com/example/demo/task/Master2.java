@@ -8,4 +8,7 @@ public class Master2 {
     public void newFeature() {
         System.out.println("this is A-1");
     }
+    public void newFeature2() {
+
+    }
 }
