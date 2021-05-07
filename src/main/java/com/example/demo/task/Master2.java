@@ -8,4 +8,7 @@ public class Master2 {
     public void newFeature() {
 
     }
+    public void newFeature2() {
+
+    }
 }
