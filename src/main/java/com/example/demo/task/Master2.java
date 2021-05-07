@@ -7,5 +7,6 @@ package com.example.demo.task;
 public class Master2 {
     public void newFeature() {
         System.out.println("B1");
+        System.out.println("B2");
     }
 }
