@@ -9,6 +9,6 @@ public class Master2 {
         System.out.println("this is A-1");
     }
     public void newFeature2() {
-
+        System.out.println("A-2");
     }
 }
