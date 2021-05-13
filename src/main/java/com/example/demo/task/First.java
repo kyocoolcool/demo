@@ -8,7 +8,7 @@ public class First {
     public static void main(String[] args) {
         System.out.println("A-1");
         System.out.println("Develop-1");
-        System.out.println("B-1");
-        System.out.println("B-2");
+        System.out.println("C-1");
+        System.out.println("C-2");
     }
 }
