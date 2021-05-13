@@ -9,6 +9,7 @@ public class Master2 {
 
     }
     public void newFeature2() {
+        System.out.println("666");
 
     }
 }
