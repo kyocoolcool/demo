@@ -7,5 +7,9 @@ package com.example.demo.task;
 public class Master1 {
     public void test1() {
     }
+
+    public void test2() {
+
+    }
 }
 
